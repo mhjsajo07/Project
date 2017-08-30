@@ -1,0 +1,2 @@
+include ':app', ':vitamio', ':xutils', ':xListView', ':EventBus', ':jcvideoplayer-lib'
+include ':speechDemo'
